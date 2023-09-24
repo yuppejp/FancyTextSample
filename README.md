@@ -6,3 +6,6 @@ Sample code that allows you to manipulate SwitUI Text by dragging it around
 ## build
 - Xcode 15.0
 - iOS 17.0.1
+
+## blog
+https://qiita.com/yuppejp/items/ecb2f40e1d32bb616f2b
